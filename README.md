@@ -1,17 +1,14 @@
 # Building-a-virtual-assistant-using-python
 This project aims at implementing basic architecture of a virtual assistant, such as Siri, Alexa, using python
-Requirments:
+**Requirments:**
 
-.Anaconda platform.
+**Anaconda platform.**
 If you don't have anaconda installed, please follow this link and install  it: https://docs.anaconda.com/anaconda/install/windows/
 
-.Jupyter Notebook
+**Jupyter Notebook**
 If you don't have Jupyter Notebook installed write this in the command  prompt:  pip install notebook
 
-
-
 Install packages 
-
 · pip install SpeechRecognition
 ref: https://pypi.org/project/SpeechRecognition/
 · pip install pyttsx3
