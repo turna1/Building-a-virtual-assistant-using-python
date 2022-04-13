@@ -20,6 +20,12 @@ ref: https://pypi.org/project/wikipedia/
 .pip install pyjokes
 ref: https://pypi.org/project/pyjokes/
 
-Library for performing speech recognition, with support for several engines and APIs, online and offline.
-Text to Speech (TTS) library for Python 2 and 3. Works without internet connection or delay. Supports multiple TTS engines, including Sapi5, nsss, and espeak.
-Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia.
+speech_recognition  #for performing speech recognition
+pyttsx3 #to support Text to Speech (TTS) synthesis
+pywhatkit #to play a video on youtube. was mainly built for WhatsApp.
+datetime #to use and manipulate dates and times
+wikipedia #to access and parse data from Wikipedia.
+pyjokes # to create random jokes 
+random #For selecting random greetings
+re #For regular expression
+
